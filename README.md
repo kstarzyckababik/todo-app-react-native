@@ -45,5 +45,5 @@ Działa zarówno na urządzeniach mobilnych (testowane z Expo Go na iOS i Androi
 git clone https://github.com/kstarzyckababik/todo-app-react-native.git
 cd todo-app-react-native  
 npm install  
-npm start  
+npm start  ```
 2. Otwórz : Expo Go (skanując kod QR) / Emulatorze / Przeglądarce (w → Web Preview)
