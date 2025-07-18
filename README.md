@@ -48,4 +48,4 @@ npm install
 npm start
 ```
 
-2. Otwórz : Expo Go (skanując kod QR) / Emulatorze / Przeglądarce (w → Web Preview)
+2. Otwórz w: Expo Go (skanując kod QR) / Emulatorze / Przeglądarce (w → Web Preview)
